@@ -9,11 +9,11 @@ React • JavaScript • Tailwind • Node.js • Express • MySQL • Python �
 
 ## Featured Projects
 
-### 🚗 RentCar
+### RentCar
 Rental booking platform with vehicle filtering, availability state, pricing, and WhatsApp booking flow.  
 [View Repo](https://github.com/RidhoMuhp/RentCar)
 
-### 📁 E-Arsip
+### E-Arsip
 Digital archive and administrative document management application.  
 [View Repo](https://github.com/RidhoMuhp/e-arsip)
 
